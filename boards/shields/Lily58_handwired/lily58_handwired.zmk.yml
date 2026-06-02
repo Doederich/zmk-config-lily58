@@ -1,0 +1,11 @@
+file_format: "1"
+id: lily58_handwired
+name: Lily58 Handwired
+type: shield
+url: https://github.com/zmkfirmware/zmk
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - lily58_handwired_left
+  - lily58_handwired_right
