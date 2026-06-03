@@ -20,6 +20,12 @@
 ---
 include:
   - board: nice_nano_v2
+    shield: settings_reset
+    artifact_name: settings_reset
+    
+  - board: nice_nano_v2
     shield: lily58_handwired_left
+    
   - board: nice_nano_v2
     shield: lily58_handwired_right
+    
