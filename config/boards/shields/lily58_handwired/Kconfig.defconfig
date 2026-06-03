@@ -3,9 +3,6 @@ if SHIELD_LILY58_HANDWIRED_LEFT
 config ZMK_KEYBOARD_NAME
     default "Lily58 Handwired"
 
-config ZMK_SPLIT_ROLE_CENTRAL
-    default y
-
 endif
 
 
