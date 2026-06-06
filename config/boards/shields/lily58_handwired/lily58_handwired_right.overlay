@@ -1,7 +1,7 @@
 #include "lily58_handwired.dtsi"
 
 &default_transform {
-    col-offset = <6>;
+    col-offset = <7>;
 };
 
 &kscan0 {
@@ -20,5 +20,6 @@
         , <&gpio1 15 GPIO_ACTIVE_HIGH>
         , <&gpio1 13 GPIO_ACTIVE_HIGH>
         , <&gpio1 11 GPIO_ACTIVE_HIGH>
+        , <&gpio0 11 GPIO_ACTIVE_HIGH>
         ;
 };
